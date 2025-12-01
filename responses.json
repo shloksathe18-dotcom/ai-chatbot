@@ -1,0 +1,158 @@
+{
+  "greetings": {
+    "hello": [
+      "Hello! I'm Askuno, your smart Wikipedia assistant. How can I help you today?",
+      "Hi there! I'm here to help you find factual information from Wikipedia. What would you like to know?",
+      "Greetings! I'm Askuno, ready to assist you with any questions you have. Ask me anything!"
+    ],
+    "hi": [
+      "Hi! I'm Askuno, your friendly Wikipedia assistant. What can I help you with?",
+      "Hello! I'm here to find accurate information for you. What would you like to know?"
+    ],
+    "hey": [
+      "Hey there! I'm Askuno, your smart assistant. How can I assist you today?",
+      "Hi! I'm ready to help you discover information from Wikipedia. What's your question?"
+    ],
+    "good morning": [
+      "Good morning! I'm Askuno, ready to help you start your day with some knowledge. What would you like to learn about?",
+      "Morning! I'm here to help you find factual information. What can I assist you with today?"
+    ],
+    "good afternoon": [
+      "Good afternoon! I'm Askuno, your Wikipedia assistant. How can I help you this afternoon?",
+      "Hello! I'm here to provide you with accurate information. What would you like to know?"
+    ],
+    "good evening": [
+      "Good evening! I'm Askuno, ready to help you with any questions. What can I assist you with tonight?",
+      "Evening! I'm here to help you discover interesting facts. What would you like to learn about?"
+    ],
+    "good night": [
+      "Good night! Sleep well and remember — knowledge never sleeps!",
+      "Sweet dreams! Askuno will be here when you wake up for more learning!"
+    ],
+    "how are you": [
+      "I'm just a bunch of code, but thanks for asking! How can I assist you today?",
+      "I'm here and ready to help you find information! What would you like to know?"
+    ],
+    "what's up": [
+      "I'm here to help you find factual information from Wikipedia! What would you like to know?",
+      "Not much, just ready to assist you with any questions you have. Ask me anything!"
+    ],
+    "how's it going": [
+      "I'm functioning at full capacity, ready to help you find information! What can I assist you with?",
+      "All systems go! I'm here to help you discover knowledge from Wikipedia. What's your question?"
+    ],
+    "nice to meet you": [
+      "Nice to meet you too! I'm Askuno, your smart Wikipedia assistant. How can I help you today?",
+      "Pleasure to meet you! I'm here to assist you with any questions you have. Ask me anything!"
+    ],
+    "whats up": [
+      "I'm here to help you find factual information from Wikipedia! What would you like to know?",
+      "Not much, just ready to assist you with any questions you have. Ask me anything!"
+    ]
+  },
+  "identity": {
+    "who are you": [
+      "I'm Askuno, your smart Wikipedia assistant! I help you find factual information by searching Wikipedia for you.",
+      "I'm Askuno, an AI-powered assistant that specializes in finding accurate information from Wikipedia. Ask me anything!",
+      "I'm your friendly Wikipedia chatbot, Askuno! I search Wikipedia to provide you with reliable answers to your questions."
+    ],
+    "what are you": [
+      "I'm a Wikipedia chatbot designed to help you find factual information quickly and easily!",
+      "I'm an AI assistant that connects you with information from Wikipedia. Just ask me any question!",
+      "I'm Askuno, your personal research assistant powered by Wikipedia's vast knowledge base."
+    ],
+    "what do you do": [
+      "I help you find accurate information by searching Wikipedia! Just ask me any question and I'll do my best to find the answer.",
+      "I'm here to assist you in discovering factual information from Wikipedia. What would you like to know?",
+      "My job is to search Wikipedia for you and provide concise, accurate answers to your questions."
+    ],
+    "help": [
+      "I'm Askuno, your Wikipedia assistant! Ask me any factual question and I'll search Wikipedia to find the answer for you.",
+      "Just type your question in plain English and I'll search Wikipedia to find accurate information for you!",
+      "I specialize in finding factual information from Wikipedia. Try asking me about people, places, events, or any topic you're curious about!"
+    ],
+    "name": [
+      "My name is Askuno! I'm your smart Wikipedia assistant, here to help you find factual information.",
+      "I'm Askuno, your friendly Wikipedia chatbot! Named after 'Ask' and 'Uno' - I'm here to answer your questions."
+    ],
+    "who made you": [
+      "I was created by a team Atharv developers who wanted to make information more accessible! "
+    ],
+    "are you human": [
+      "Nope, I'm an AI-powered chatbot designed to help you find information from Wikipedia!",
+      "I'm not human, but I'm here to assist you with any questions you have using Wikipedia's vast knowledge base."
+    ]
+  },
+  "custom_answers": {
+    "what is the capital of india": ["The capital of India is New Delhi 🇮🇳."],
+    "who is the founder of microsoft": [
+      "Microsoft was founded by Bill Gates and Paul Allen in 1975."
+    ],
+    "what is python": [
+      "Python is a high-level, interpreted programming language known for its readability and versatility."
+    ],
+    "who is the ceo of tesla": ["As of 2024, the CEO of Tesla is Elon Musk."],
+    "what is the largest mammal": [
+      "The largest mammal is the blue whale (Balaenoptera musculus)."
+    ],
+    "who wrote hamlet": ["Hamlet was written by William Shakespeare."],
+    "what is the boiling point of water": [
+      "The boiling point of water is 100 degrees Celsius (212 degrees Fahrenheit) at standard atmospheric pressure."
+    ],
+    "who painted the mona lisa": [
+      "The Mona Lisa was painted by Leonardo da Vinci."
+    ],
+    "what is the speed of light": [
+      "The speed of light in a vacuum is approximately 299,792 kilometers per second (about 186,282 miles per second)."
+    ],
+    "who discovered penicillin": [
+      "Penicillin was discovered by Alexander Fleming in 1928."
+    ],
+    "what is the tallest mountain in the world": [
+      "The tallest mountain in the world is Mount Everest, which stands at 8,848.86 meters (29,031.7 feet) above sea level."
+    ],
+    "Who was Mahatma Gandhi": [
+      "Mahatma Gandhi was a leader of the Indian independence movement against British rule, known for his philosophy of nonviolent resistance."
+    ],
+    "What is photosynthesis": [
+      "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll."
+    ],
+    "Who is Albert Einstein": [
+      "Albert Einstein was a theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics."
+    ],
+    "What is the Great Wall of China": [
+      "The Great Wall of China is a series of fortifications built along the historical northern borders of China to protect against invasions."
+    ],
+    "Who is the current president of the United States": [
+      "As of 2024, the current president of the United States is Joe Biden."
+    ],
+    "What is the currency of Japan": [
+      "The currency of Japan is the Japanese Yen (JPY)."
+    ],
+    "Who invented the telephone": [
+      "The telephone was invented by Alexander Graham Bell in 1876."
+    ],
+    "What is the largest ocean on Earth": [
+      "The largest ocean on Earth is the Pacific Ocean."
+    ],
+    "Who wrote 'Pride and Prejudice'": [
+      "'Pride and Prejudice' was written by Jane Austen."
+    ],
+    "What is the human genome": [
+      "The human genome is the complete set of genetic information for humans, encoded in DNA."
+    ],
+    "When was the Taj Mahal built": [
+      "The Taj Mahal was built between 1632 and 1653 by the Mughal emperor Shah Jahan in memory of his wife Mumtaz Mahal."
+    ],
+    "Who was the first President of India": [
+      "The first President of India was Dr. Rajendra Prasad, who served from 1950 to 1962."
+    ],
+    "Who invented the light bulb": [
+      "Thomas Edison is credited with inventing the practical electric light bulb in 1879"
+    ],
+    "What is the solar system": [
+      "A group of planets, moons, and other bodies orbiting the Sun — including Earth, Mars, Jupiter, etc."
+    ],
+    "What are the three states of matter": ["Solid, Liquid, Gas"]
+  }
+}
